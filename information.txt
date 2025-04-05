@@ -1,0 +1,11 @@
+﻿
+1)CONNECTIONSTRINGS__WEBAPIDATABASE="Host=your-hosting;Database=your-database;Username=your-username;Password=your-password"
+
+2)JWTSETTINGS__SECRETKEY="your-secret-key"
+3)JWTSETTINGS__ISSUER="your-app"
+4)JWTSETTINGS__AUDIENCE="your ???"
+5)JWTSETTINGS__TOKENLIFETIME=your token life (example 74000)   
+ ^^
+ ||
+ ||
+(432000)=>5 day
